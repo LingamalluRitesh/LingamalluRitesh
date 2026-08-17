@@ -1,49 +1,39 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HERO HEADER                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,23,34&height=190&section=header&text=Lingamallu%20Ritesh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Web%20Developer&descFontSize=17&descAlignY=58&descColor=38BDF8&animation=fadeIn" width="100%" alt="Header Banner" />
+# 🚀 Lingamallu Ritesh
+### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 🌐 Web Developer
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=👋+Hello+World!+I'm+Lingamallu+Ritesh;🐍+Aspiring+Python+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;⚛️+React+%26+TypeScript+Frontend+Builder;🚀+Passionate+About+Modern+Software" alt="Animated Typing SVG" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  BADGES & QUICK LINKS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://linkedin.com/in/lingamallu-ritesh-15162a287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:riteshlingamallu8@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/LingamalluRitesh">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=LingamalluRitesh&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   📍 <b>Guntur, Andhra Pradesh, India</b> &nbsp;•&nbsp; 
   🎓 <b>B.Tech in Artificial Intelligence & Machine Learning</b> &nbsp;•&nbsp; 
-  💼 <b>Open to Python Developer Roles</b>
+  🔍 <b>Open to Opportunities as a Python Developer</b>
 </p>
+
+---
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 💫 About Me
+## 👨‍💻 About Me
+
+I'm an aspiring **Python Developer** and **AI/ML enthusiast** with strong analytical and problem-solving skills, passionate about building practical software applications, intelligent systems, and modern responsive websites.
+
+I work with **Python, SQL, machine learning, React, TypeScript, and modern web technologies** — and I enjoy combining intelligent systems with useful, well-designed interfaces.
 
 ```python
 class Developer:
